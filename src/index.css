@@ -1,0 +1,58 @@
+/* .login-form{
+    margin: 50px auto;
+    width: 50%;
+    padding: 20px;
+}
+label{
+    display: block;
+    margin: 10px 0;
+}
+.login-form input{
+    border: 1px solid #bdc9b8;
+    outline: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+button{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+.login-btn,.logout-btn,.toggle-btn,.cancel-btn{
+    background-color: #bdc9b8;
+}
+.create-blog-btn,.delete-blog-btn{
+    background-color: #ce836f;
+}
+.toggle-btn,.cancel-btn{
+    margin: 10px 0;
+}
+.show-btn,.like-btn{
+    background-color: #ddceb2;
+    margin-left: 5px;
+}
+.info{
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 5px;
+    border-style: solid;
+    background-color: #ccc;
+    border-color: #b6634a;
+    color: #b6634a;
+}
+.blog{
+    border: 1px solid #ddceb2;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px 0;
+    line-height: 1;
+}
+ */
+.login-btn,.toggle-btn,.cancel-btn{
+    margin: 10px 0;
+    background-color: #bdc9b8;
+}
+.create-blog-btn,.delete-blog-btn{
+    margin: 10px 0;
+    background-color: #ce836f;
+}
